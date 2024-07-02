@@ -42,7 +42,7 @@ O **RimWorld Translation Tool with Google Cloud Translate** é uma ferramenta pr
 
 4. **Execute a Ferramenta:**
    ```bash
-   python translate.py --input ../RimWorld-Original/DefInjected --output ../RimWorld-Translated/DefInjected --lang pt
+   python translate.py
    ```
 
 ## Contribuições
