@@ -21,24 +21,29 @@ O **RimWorld Translation Tool with Google Cloud Translate** é uma ferramenta pr
 ## Como Usar
 
 1. **Clone o Repositório:**
-    ```bash
-    git clone https://github.com/lenhare/RimWorldTranslationTool.git
-    cd RimWorldTranslationTool
-    ```
+
+   ```bash
+   git clone https://github.com/lenhare/RimWorldTranslationTool.git
+   cd RimWorldTranslationTool
+   ```
 
 2. **Instale as Dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Configure a API do Google Cloud Translate:**
-    - Siga as instruções [aqui](https://cloud.google.com/translate/docs/setup) para configurar a API.
-    - Salve a chave JSON de autenticação como `google_credentials.json` no diretório do projeto.
+
+   # OPCIONAL CASO USE GCLOUD-CLI, é necessário importar o json caso não utilizar o CLI
+
+   - Siga as instruções [aqui](https://cloud.google.com/translate/docs/setup) para configurar a API.
+   - Salve a chave JSON de autenticação como `google_credentials.json` no diretório do projeto.
 
 4. **Execute a Ferramenta:**
-    ```bash
-    python translate.py --input ../RimWorld-Original/DefInjected --output ../RimWorld-Translated/DefInjected --lang pt
-    ```
+   ```bash
+   python translate.py --input ../RimWorld-Original/DefInjected --output ../RimWorld-Translated/DefInjected --lang pt
+   ```
 
 ## Contribuições
 
