@@ -1,0 +1,2 @@
+google-cloud-translate==2.0.1
+lxml==4.6.3
