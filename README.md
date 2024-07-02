@@ -23,7 +23,7 @@ O **RimWorld Translation Tool with Google Cloud Translate** é uma ferramenta pr
 1. **Clone o Repositório:**
     ```bash
     git clone https://github.com/lenhare/RimWorldTranslationTool.git
-    cd rimworld-translation-tool
+    cd RimWorldTranslationTool
     ```
 
 2. **Instale as Dependências:**
