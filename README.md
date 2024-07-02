@@ -10,7 +10,6 @@ O **RimWorld Translation Tool with Google Cloud Translate** é uma ferramenta pr
 - **Tradução Automática:** Utiliza a API do Google Cloud Translate para traduzir textos de forma automática e eficiente.
 - **Suporte a Múltiplos Idiomas:** Suporta traduções para uma ampla variedade de idiomas, incluindo Português Brasileiro, Espanhol, Francês, Alemão, entre outros.
 - **Inserção de Texto:** Insere os textos traduzidos de volta nos arquivos XML do jogo.
-- **Interface Amigável:** Interface simples e intuitiva, facilitando o uso mesmo para usuários com pouca experiência técnica.
 - **Configuração Personalizável:** Permite configurações personalizadas para atender às necessidades específicas dos tradutores.
 
 ## Requisitos
